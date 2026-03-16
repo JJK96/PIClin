@@ -80,3 +80,7 @@ make tests
 
 [BOF2Shellcode]: https://github.com/FalconForceTeam/BOF2shellcode
 [win32-db]: https://github.com/JJK96/win32-db
+
+## Similar projects
+
+* [Crystal Palace](https://tradecraftgarden.org/crystalpalace.html). This project is way more mature. It solves the linking part, but the source code format is similar to Cobalt Strike BOFs, which require you to write Win32 API function definitions and attach the DLL name to each function call.
